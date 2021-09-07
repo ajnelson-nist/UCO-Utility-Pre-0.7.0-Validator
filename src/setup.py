@@ -28,7 +28,7 @@ setup(
     ],
     install_requires=[
         'lxml',
-        'ontospy',
+        'ontospy>=1.9.8.3',
         'rdflib'
     ],
     entry_points='''
