@@ -1,5 +1,5 @@
 # virtualenv python=python3
 
-ontospy
+ontospy >= 1.9.8.3
 rdflib
 lxml
